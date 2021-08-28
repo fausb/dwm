@@ -1,4 +1,4 @@
-<h1 align="center">Faus' dwm build</h1>
+<h1 align="center">dwm build</h1>
 
 ## Patches and features
 
